@@ -1,5 +1,3 @@
-[![CI](https://github.com/tkgregory/debug-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/tkgregory/debug-demo/actions/workflows/ci.yml)
-
 Battleship game to demonstrate debugging. 
 
 ## How to play
