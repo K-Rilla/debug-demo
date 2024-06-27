@@ -1,4 +1,4 @@
-Battleship game to demonstrate debugging. 
+## Battleship game to demonstrate debugging. 
 
 ## How to play
 
