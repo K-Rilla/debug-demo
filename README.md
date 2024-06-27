@@ -2,9 +2,6 @@
 
 Battleship game to demonstrate debugging. 
 
-Check out the YouTube video for full details. 👇<br/>
-[<img src="YouTube thumbail.png" width="500"/>](https://youtu.be/IeUZZoZE3sU)
-
 ## How to play
 
 Run the `main` method inside [BattleshipGame](src/main/java/com/tomgregory/BattleshipGame.java) to initiate these steps:
